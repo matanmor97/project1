@@ -8,7 +8,7 @@ public class CarModel {
 
     public enum Gearbox{
         AUTOMATIC,
-        MANUAL
+        MANUA
     }
     private String modelCode;
     public void setModelCode (String modelCode){this.modelCode = modelCode;}
